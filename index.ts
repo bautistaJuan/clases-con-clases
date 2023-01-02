@@ -66,6 +66,7 @@ function testClaseEdificio() {
 }
 
 function main() {
+    console.log("Edite el archivo desde GitHub")
     testClaseEdificio();
 }
 main(); 
